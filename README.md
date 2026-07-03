@@ -128,6 +128,20 @@ Skills:
 - Python
 - Tableau
 
+## 👩‍💻 Developed By
+
+| | |
+|---|---|
+| 👩 **Name** | Pranali Ashok Desai |
+| 🎯 **Role** | Aspiring Data Analyst |
+| 📧 **Email** | your-email@gmail.com |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/your-linkedin-profile/ |
+| 💻 **GitHub** | https://github.com/pranalidesai2005-tech |
+
 ---
+
+⭐ **If you like this project, please give it a Star!**
+
+Thank you for visiting my portfolio. ❤️
 
 ⭐ If you found this project useful, please consider giving it a star!
