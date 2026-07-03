@@ -93,7 +93,7 @@ This project is an interactive Power BI dashboard built using a Digital Marketin
 
 ## 📷 Dashboard Preview
 
-<h2>📷 Dashboard Preview</h2>
+
 
 <h3>🏠 Home Dashboard</h3>
 <img src="Home%20page.png" width="800">
@@ -144,4 +144,4 @@ Skills:
 
 Thank you for visiting my portfolio. ❤️
 
-⭐ If you found this project useful, please consider giving it a star!
+
