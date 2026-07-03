@@ -93,7 +93,25 @@ This project is an interactive Power BI dashboard built using a Digital Marketin
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshots here.)
+<h2>📷 Dashboard Preview</h2>
+
+<h3>🏠 Home Dashboard</h3>
+<img src="Home%20page.png" width="800">
+
+<h3>👥 User Analysis</h3>
+<img src="user%20analysis.png" width="800">
+
+<h3>🚦 Traffic Analysis</h3>
+<img src="Traffic%20Analysis.png" width="800">
+
+<h3>🌍 Geographic Analysis</h3>
+<img src="geographic%20analysis.png" width="800">
+
+<h3>💰 Revenue & Conversion Analysis</h3>
+<img src="Revenue%20and%20conversion%20Analysis.png" width="800">
+
+<h3>💡 Insights & Recommendations</h3>
+<img src="Insight%20and%20reccomendations.png" width="800">
 
 ---
 
